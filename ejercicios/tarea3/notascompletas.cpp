@@ -117,4 +117,3 @@ if (nota > 100 || nota < 0)
 
 }
     return 0;
-}
